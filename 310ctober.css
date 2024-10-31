@@ -1,0 +1,68 @@
+form{
+    background-color: blueviolet;
+    width: fit-content;
+    padding: 30px;
+
+}
+input[type="text"]{
+    color: darkmagenta;
+    font-size: 20px;
+    background-color: aqua;
+
+
+}
+
+input[type="number"]{
+    color: aquamarine;
+    font-size: 20px;
+    background-color: red;
+
+}
+
+input[type="checkbox"]{
+    accent-color: yellow;
+
+}
+
+button{
+    color: blueviolet;
+    font-size: 20px;
+    padding: 20px 0;
+    background-color: tomato;
+    width: 100%;
+}
+
+.yam{
+color: burlywood;
+}
+.read{
+    color: black;
+    font-style: oblique;
+}
+
+#fooloish{
+    color: red;
+    font-style: italic;
+
+}
+
+.egg{
+    font-size: 20px;
+    color: red;
+}
+
+.fish{
+    background: yellow;
+
+
+}
+
+.meat{
+    border:3px solid red;
+    
+}
+
+
+    
+
+

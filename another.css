@@ -1,0 +1,37 @@
+ ol {
+     /* background-color: aqua; */
+     width: fit-content;
+     /* padding: 20px; */
+     list-style-type: disc;
+ }
+
+ li {
+     margin: 10px 0;
+     background-color: yellow;
+     width: fit-content;
+ }
+
+ li:hover {
+
+     background-color: green;
+     color: olive;
+ }
+
+ table {
+     border: 1px solid black;
+     border-collapse: collapse;
+ }
+
+ td {
+     border: 1px solid black;
+     padding: 30px;
+ }
+
+ tr {
+     background-color: bisque;
+ }
+
+ tr:hover {
+     background-color: black;
+     color: red;
+ }

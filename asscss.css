@@ -1,0 +1,56 @@
+h4 {
+    letter-spacing: 5px;
+    line-height: 20px;
+    text-indent: 0px;
+    text-align: right;
+    font-weight: 3000px;
+    font-size: 20px;
+    color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5 {
+    letter-spacing: 5px;
+    line-height: 20px;
+    text-indent: 0px;
+    text-align: left;
+    font-weight: 3px;
+    font-size: 20px;
+    color: powderblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h6 {
+    text-indent: 20px;
+    font-weight: 1000px;
+    font-size: 20px;
+    color: rosybrown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* text-decoration: solid; */
+}
+
+p {
+    text-indent: 50px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+header {
+    text-align: right;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: 30px;
+    color: peru;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
